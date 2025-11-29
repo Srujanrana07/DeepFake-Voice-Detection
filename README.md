@@ -82,23 +82,23 @@ Random Forest / KNN                                     1D CNN Model
 ## 📊 CNN Evaluation (Placeholders)
 
 ### 🟦 Training Accuracy Curve  
-`![CNN Accuracy Curve](/assets/accuracy.png)`
+![CNN Accuracy Curve](/assets/accuracy.png)
 
 ### 🟥 Training Loss Curve  
-`![CNN Loss Curve](/assets/loss.png)`
+![CNN Loss Curve](/assets/loss.png)
 
 ### 🟩 Confusion Matrix (CNN)  
-`![CNN Confusion Matrix](/assets/confussionmatrix-cnn.png)`
+![CNN Confusion Matrix](/assets/confussionmatrix-cnn.png)
 
 ### 🟪 ROC Curve (CNN)  
-`![CNN ROC Curve](/assets/roc.png)`
+![CNN ROC Curve](/assets/roc.png)
 
 ### 🟨 Precision–Recall Curve (CNN)  
-`![CNN PR Curve](/assets/presision and recall.png)`
+<img width="631" height="468" alt="presision and recall" src="https://github.com/user-attachments/assets/6528d17a-c123-4064-9352-2353b8329af9" />
 
 ---
 # ✔ Features Used For the 318 Dimention
-`![RN & KNN Features](/assets/realvsfake.png)`
+![RN & KNN Features](/assets/realvsfake.png)
 
 # **2️⃣ Random Forest Classifier**
 
@@ -110,7 +110,7 @@ Random Forest / KNN                                     1D CNN Model
 
 
 ### 🟩 Confusion Matrix (RF)  
-`![RF Confusion Matrix](/assets/confusion.png)`
+![RF Confusion Matrix](/assets/confusion.png)
 
 ---
 
@@ -122,7 +122,7 @@ Random Forest / KNN                                     1D CNN Model
 - k = 7 chosen for optimal performance  
 
 ### 🟩 Confusion Matrix (KNN)  
-`![KNN Confusion Matrix](/assets/download.png)`
+![KNN Confusion Matrix](/assets/download.png)
 
 ---
 
