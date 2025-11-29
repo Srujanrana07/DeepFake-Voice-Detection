@@ -69,7 +69,7 @@ Random Forest / KNN                                     1D CNN Model
 - Trained for 40 epochs  
 
 ### ✔ Features Used
-`![CNN Features](/assets/mfcc-40.png)`
+![CNN Features](/assets/mfcc-40.png)
 
 ### ✔ Performance  
 - **Dev Accuracy:** ~86%  
